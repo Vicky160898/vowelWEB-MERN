@@ -1,0 +1,37 @@
+#first {
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 20px auto;
+    gap: 40px;
+  }
+  #first > div {
+    width: 100%;
+    text-align: center;
+    border: 1px #cbceca solid;
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+    color: #0a0103;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  #first > div > h3 {
+    margin-top: 3px;
+    font-size: 18px;
+    color:"#CBCECA";
+  }
+  #first > div > h2 {
+    margin-top: 3px;
+    font-weight: bolder;
+    font-size: 22px;
+    color:"#CBCECA";
+  }
+  #first > div > p {
+    margin-top: 3px;
+  }
+  img {
+    width: 100%;
+    display: block;
+    border-radius: 12%;
+  }
+  
