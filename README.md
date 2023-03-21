@@ -54,7 +54,7 @@ A shopping website. Vowelweb.in provide facilities to buy multiple different cat
 
 ### Cart Page UI 👌
 
-![Cart Page]![Screenshot (146)](https://user-images.githubusercontent.com/107462150/226537716-9bdd4d03-0e4a-4053-b218-d41c83eca9ff.png)
+![Cart Page](https://user-images.githubusercontent.com/107462150/226537716-9bdd4d03-0e4a-4053-b218-d41c83eca9ff.png)
 
 
 
@@ -66,22 +66,22 @@ A shopping website. Vowelweb.in provide facilities to buy multiple different cat
 
 ### RazorPay-Payment Page UI ✍️
 
-![RazorPay-Payment Page]![Screenshot (150)](https://user-images.githubusercontent.com/107462150/226538317-88a8a2c0-cab2-4a6b-b3a1-d49669082509.png)
+![RazorPay-Payment Page](https://user-images.githubusercontent.com/107462150/226538317-88a8a2c0-cab2-4a6b-b3a1-d49669082509.png)
 
 
 ### Admin  UI ✍️
 
-![Admin Page]![Screenshot (152)](https://user-images.githubusercontent.com/107462150/226538594-2dd3ee0b-8802-450e-bd90-689400aa9058.png)
+![Admin Page](https://user-images.githubusercontent.com/107462150/226538594-2dd3ee0b-8802-450e-bd90-689400aa9058.png)
 
 
 ### Admin Add Product Page UI ✍️
 
-![Admin Add Product Page]![Screenshot (154)](https://user-images.githubusercontent.com/107462150/226538840-de822e75-c00d-4326-a319-9f435b808b38.png)
+![Admin Add Product Page](https://user-images.githubusercontent.com/107462150/226538840-de822e75-c00d-4326-a319-9f435b808b38.png)
 
 
 ### Admin Edit Product Page UI ✍️
 
-![Admin Edit Product Page]![Screenshot (156)](https://user-images.githubusercontent.com/107462150/226539073-107a80c4-971e-43c4-a8a2-70281f0662bf.png)
+![Admin Edit Product Page](https://user-images.githubusercontent.com/107462150/226539073-107a80c4-971e-43c4-a8a2-70281f0662bf.png)
 
 
 
